@@ -6,8 +6,7 @@ A comprehensive, automated tool for breaking RSA encryption using multiple attac
 Just provide a public key, certificate, or ciphertext, and the tool will attempt all possible
 attack methods to break the encryption.
 
-Author: [Your Name]
-Date: April 2025
+Author: WhiskeyCoder
 """
 
 import argparse
